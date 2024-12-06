@@ -1,11 +1,11 @@
 # Exploratory Data Analysis on PhonePe Dataset
 ### Objective
-To analyze and extract meaningful insights from PhonePe’s transactional data, focusing on state-wise performance, transaction types, and payment modes to inform strategic decision-making.
+To analyze and extract meaningful insights from PhonePe’s transactional data, focusing on state-wise performance, transaction types, and total transctions count & amount to inform strategic decision-making.
 
 ### Dataset Description
-* Source: PhonePe dataset.
+* Source: https://github.com/PhonePe/pulse
 * Scope: 9 tables covering aggregate transactions, user data, and insurance metrics across states, districts, and payment types.
-* Key Attributes: Transaction amount, type, state, quarter, and payment method.
+* Key Attributes: Transaction amount, type, state, quarter, year and transction count.
 ### EDA Methodology
 
 #### Data Profiling
@@ -36,7 +36,7 @@ Explored individual variables to understand distribution and central tendencies.
 3. Correlation analysis revealed key relationships between variables, aiding trend identification.
 
 #### Conclusion
-The EDA provided actionable insights into state-wise performance, transaction behaviors, and payment preferences. These insights can assist PhonePe in tailoring its strategies to enhance user engagement and expand market reach.
+The EDA provided actionable insights into state-wise performance, transaction behaviors, and user preferences. These insights can assist PhonePe in tailoring its strategies to enhance user engagement and expand market reach.
 
 
 
