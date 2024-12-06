@@ -3,10 +3,10 @@
 To analyze and extract meaningful insights from PhonePe’s transactional data, focusing on state-wise performance, transaction types, and total transctions count & amount to inform strategic decision-making.
 
 ### Dataset Description
-* Main Source:https://github.com/Pratyusha05-DA/Phone-Pe-Python/tree/main/Extracted_tables
-* Source: https://github.com/PhonePe/pulse
+* Main Source: https://github.com/PhonePe/pulse
+* Dataset Source:https://github.com/Pratyusha05-DA/Phone-Pe-Python/tree/main/Extracted_tables
 * Scope: 9 tables covering aggregate transactions, user data, and insurance metrics across states, districts, and payment types.
-* Key Attributes: Transaction amount, type, state, quarter, year and transction count.
+* Key Attributes: Transaction amount, type, state, district, quarter, year and transction count.
 ### EDA Methodology
 
 #### Data Profiling
