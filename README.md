@@ -36,7 +36,7 @@ The project uses data stored in JSON format, representing various attributes rel
     7. *Top Transaction Pincode*
     8. *Top User District*
     9. *Top User Pincode*
-These tables contain State-wise, District-wise and Pincode-wise Total Transaction Count and Amount sent Yearly and Quartely. Type of transaction made? Who took Insurance? using PhonePe their total Amount & Count. How many Registered Users are there? What type of Mobile brand they are using? also Top 10 Districts and Pincodes from Top table. In Map tables Districts of each State information is also included.
+* These tables contain State-wise, District-wise and Pincode-wise Total Transaction Count and Amount sent Yearly and Quartely. Type of transaction made? Who took Insurance? using PhonePe their total Amount & Count. How many Registered Users are there? What type of Mobile brand they are using? also Top 10 Districts and Pincodes from Top table. In Map tables Districts of each State information is also included.
 
 ### Exploratory Data analysis
 EDA is performed on all the tables individually to find insights using python and for visualization Matplotlib, Seaborn is used. Discreptive analysis is done because data is in aggregate form. Steps followed are:
